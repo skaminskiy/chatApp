@@ -17,9 +17,14 @@
   },
   "homepage": "https://github.com/skaminskiy/chatApp#readme",
   "dependencies": {
+    "JSONStream": "^1.2.1",
+    "amqplib": "^0.5.1",
     "ecstatic": "^2.1.0",
+    "level": "^1.5.0",
     "minimist": "^1.2.0",
+    "monotonic-timestamp": "0.0.9",
     "redis": "^2.6.3",
+    "request": "^2.79.0",
     "ws": "^1.1.1",
     "zmq": "^2.15.3"
   }
